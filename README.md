@@ -1,6 +1,6 @@
 # jupyter
 
-**Leanr Jupyter Notebooks**
+**Learn Jupyter Notebooks**
 
 ![](http://jupyter.org/assets/main-logo.svg)
 
