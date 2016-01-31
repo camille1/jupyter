@@ -17,7 +17,6 @@ formatted text, math, and multimedia in a single document.
 the [NBInclude](https://github.com/stevengj/NBInclude.jl) package.)
 
 ## Installation
-
 First, [download Julia](http://julialang.org/downloads/) *version 0.3
 or later* and run the installer.  Then run the Julia application
 (double-click on it); a window with a `julia>` prompt will appear.  At
